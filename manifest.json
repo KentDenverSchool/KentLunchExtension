@@ -1,0 +1,12 @@
+{
+  "manifest_version": 1,
+
+  "name": "Kent Denver Lunch Extension",
+  "description": "This extension alters the KDS menu page.",
+  "version": "1.0",
+
+  "permissions": [
+    "activeTabs",
+  ]
+
+}
